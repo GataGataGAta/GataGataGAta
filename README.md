@@ -1,4 +1,4 @@
-### ラーメンは完全食
+### Hi there👋
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=GataGataGAta&show_icons=true&locale=en&layout=compact)
 
