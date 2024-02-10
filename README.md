@@ -1,7 +1,6 @@
 ### ラーメンは完全食
 
-
-![](https://github-readme-stats.vercel.app/api/top-langs?username=GataGataGAta)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=GataGataGAta&show_icons=true&locale=en&layout=compact)
 
 ![](https://skillicons.dev/icons?i=html,css,js,typescript,python,php)
 <!--
