@@ -150,4 +150,6 @@ Interested in collaborating on research, tools, or apps? I’m open to co-develo
 
 *"Turning sports video into insight — one frame at a time."*
 
+<a href="https://www.buymeacoffee.com/GataGataGAta" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 </div>
