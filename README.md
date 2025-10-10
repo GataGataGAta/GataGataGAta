@@ -130,9 +130,6 @@ Here are my favorite teams — click the logo to open the team page:
 **Current research:** My current research focuses on **basketball** 
 
 
-## 🤝 Collaboration
-
-Interested in collaborating on research, tools, or apps? I’m open to co-developing pipelines, datasets, and mobile interfaces. Contributions and PRs are welcome.
 
 ## 📫 Contact
 
