@@ -127,6 +127,7 @@ Here are my favorite teams — click the logo to open the team page:
 </tr>
 </table>
 </div>
+
 ## 💻 Current research 
 
 My current research focuses on **basketball** 
